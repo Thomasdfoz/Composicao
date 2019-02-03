@@ -7,7 +7,7 @@ namespace composicao.Entities.Enums
     enum WorkerLevel : int
     {
         Junior,
-        Mid_Level,
+        MidLevel,
         Senior
     }
 }
